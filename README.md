@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript's GetObject function. The provided code attempts to retrieve a COM object, but its error handling is flawed.  The solution provides a more robust approach to managing potential errors.
